@@ -529,7 +529,7 @@ h3{
 .nav-links{
         position: fixed;
         background:linear-gradient(to left, rgb(103, 219, 219),rgb(168, 72, 203));
-        height: 100vh;
+        height: 120vh;
         width: 200px; 
         top: 0;
         right: -200px;
